@@ -1,9 +1,9 @@
 <?php
 
 
-$access_token = '3ALKAbKFoGuJyJnoDdn0HeyfbxLFtEXBKiC0lFeoNl/XbL4WhoCZzefp2n7UDuXaCWfErIDro07BnZNggJmXJChXTIlMPo8LRJ+n1LEgbRUaKehDkiCr5p5CakHrPX+gauOGX/R5bB2e5yi7xjnHDAdB04t89/1O/w1cDnyilFU=';
+$access_token = 'YpfYu1Dc2TDnzHQ91zIN4bRYqGVafr2Bbh7R3SL7hra2CtPlrHmesgIvNzilJS8oUUiFmCgCuPbJG86G8G7Eob0cjxbywfMNrM9lL8rtqijSyM84nGQsHdFMSq9kiYq+VhO364veP3rgGMNCbP7HRgdB04t89/1O/w1cDnyilFU=';
 
-$userId = 'Uffa138efe037e6e889d0b0f4a871c005';
+$userId = 'U017da59b8b1854aff041828057ba2faf';
 
 $url = 'https://api.line.me/v2/bot/profile/'.$userId;
 
